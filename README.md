@@ -42,3 +42,10 @@ The **Battery Analysis and Management System** is a software application designe
 4. data_management.py is a python user defined module for datamanagement.
 5. Run the UI_main.py - ``` python3 UI_main.py ``` - On macOS
                       - ``` python UI_main.py ``` - Windows
+
+## Authors
+
+- **[Uchit N M](https://github.com/uchitnm)**  
+  📧 uchitnm@gmail.com
+- **[Srivishnu Muni Gade](https://github.com/SrivishnuGade)**  
+  📧 gade.srivishnu@gmail.com
